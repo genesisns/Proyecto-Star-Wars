@@ -3,7 +3,7 @@
 In this project three of the Star War's movie scripts were analyzed and processed using NLP. 
 Firstly, a simple word frequency count was performed to see which the most relevant characters are.
 
-![image](https://user-images.githubusercontent.com/44349963/125862373-b4b988aa-5079-461b-b7bc-6413614601eb.png)
+![image](https://user-images.githubusercontent.com/44349963/125864120-65f4cb30-7a29-4081-ba86-46be4551c54a.png)
 
 Then a word frequency count was performed, followed by stop word removal and tokenization to generate word clouds for two characters: Yoda and Vader.
 
