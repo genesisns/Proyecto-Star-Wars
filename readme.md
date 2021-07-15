@@ -7,7 +7,7 @@ Firstly, a simple word frequency count was performed to see which the most relev
 
 Then a word frequency count was performed, followed by stop word removal and tokenization to generate word clouds for two characters: Yoda and Vader.
 
-![image](https://user-images.githubusercontent.com/44349963/125862394-eda381e9-9b2d-4c12-b9dd-acbdaff38772.png)
+![image](https://user-images.githubusercontent.com/44349963/125864344-13503ebf-4e61-4afb-890a-d71ae7e40b86.png)
 
 Next, the whole dialogue was processed, dealing with upper and lower cases, lemmanization and tokenization all in one place. 
 Also a count vectorizer was used to understand which words are common in the trilogy and thus, should carry less weight in the analysis.
