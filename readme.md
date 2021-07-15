@@ -20,5 +20,4 @@ Also a count vectorizer was used to understand which words are common in the tri
 Lastly, sentiment analysis using Vader was performed, in the processed dialogues with and without lemmanization, concluding that the difference is not great and that lemmanization
 should thus not be used.
 
-![image](https://user-images.githubusercontent.com/44349963/125862353-cac39627-a346-40a6-ad68-25b19d25fa61.png)
-
+![image](https://user-images.githubusercontent.com/44349963/125864442-e86b6fbd-7cd1-47ba-bb3a-16401986a563.png)
