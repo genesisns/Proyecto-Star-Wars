@@ -1,0 +1,14 @@
+# Star Wars Project - NLP
+
+In this project three of the Star War's movie scripts were analyzed and processed using NLP. 
+Firstly, a simple word frequency count was performed to see which the most relevant characters are.
+
+Then a word frequency count was performed, followed by stop word removal and tokenization to generate word clouds for two characters: Yoda and Vader.
+
+Next, the whole dialogue was processed, dealing with upper and lower cases, lemmanization and tokenization all in one place. 
+Also a count vectorizer was used to understand which words are common in the trilogy and thus, should carry less weight in the analysis.
+
+Lastly, sentiment analysis using Vader was performed, in the processed dialogues with and without lemmanization, concluding that the difference is not great and that lemmanization
+should thus not be used.
+
+
